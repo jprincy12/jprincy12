@@ -1,8 +1,8 @@
 # Hi there 👋
 # **Welcome to my profile.**
 ## It's me Princy Jaiswal.
-🚀 About Me:
-i'm from Nepal 🇳🇵
+🚀 About Me: <br>
+i'm from Nepal 🇳🇵<br>
 🌱 I’m currently learning on my learning phase.<br>
 🔭 I’m looking forward to make my career as a **Developer**.<br>
 👯 I’m looking to collaborate on **Frontend Project**.<br>
