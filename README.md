@@ -16,7 +16,11 @@ Skills till now:
 2. CSS
 3. Javascript
 4. Loading.......
+<br>
 **Get in Touch**
-📫 You can reach me on: [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)/[Email](jprincy933@gmail.com)
+<br>
+📫 You can reach me on:
+- [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)
+- [Email](jprincy933@gmail.com)
 
 
