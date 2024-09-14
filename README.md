@@ -7,5 +7,5 @@
 <br>
 📫 How to reach me: [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)/[Email](jprincy933@gmail.com)
 <br>
-👯 I’m looking to collaborate on ** Frontend Project**.
+👯 I’m looking to collaborate on **Frontend Project**.
 
