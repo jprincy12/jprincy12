@@ -8,7 +8,7 @@
 <br>
 👯 I’m looking to collaborate on **Frontend Project**.
 <br>
-🛠️ Technologies & Tools:
+### **🛠️ Technologies & Tools:**
 <br>
 Skills till now:
 <br>
@@ -17,11 +17,12 @@ Skills till now:
 3. Javascript
 4. Loading.......
 <br>
-**Get in Touch**
+## **Get in Touch:**
 <br>
 📫 You can reach me on:
 <br>
 - [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)
+  <br>
 - [Email](jprincy933@gmail.com)
 
 
