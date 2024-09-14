@@ -16,7 +16,6 @@ Skills till now:
 2. CSS
 3. Javascript
 4. Loading.......
-<br>
 **Get in Touch**
 <br>
 📫 You can reach me on:
