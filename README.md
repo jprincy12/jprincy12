@@ -20,6 +20,7 @@ Skills till now:
 **Get in Touch**
 <br>
 📫 You can reach me on:
+<br>
 - [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)
 - [Email](jprincy933@gmail.com)
 
