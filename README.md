@@ -14,7 +14,7 @@ Skills till now:<br>
 4. Loading.......<br>
 ## **Get in Touch:** <br>
 📫 Feel free to connect with me: <br>
-- [LinkdIn](https://www.linkedin.com/in/princy-jaiswal-105a46219/)<br>
+- [linkedin](https://www.linkedin.com/in/princy-jaiswal-105a46219/)<br>
 - [Email](jprincy933@gmail.com)
 
 
