@@ -9,11 +9,11 @@ Skills till now:<br>
 1. HTML
 2. CSS
 3. Javascript
-4. React.JS
+4. MERN Stack
 5. TailwindCSS
 ## **Get in Touch:** <br>
 📫 Feel free to connect with me: <br>
-- [linkedin](https://www.linkedin.com/in/princy-jaiswal-105a46219/)<br>
+- [linkedin](https://www.linkedin.com/in/jprincy12/)<br>
 - [Email](jprincy933@gmail.com)
 - [Portfolio](http://princyjaiswal.com.np/)
 
